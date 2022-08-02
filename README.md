@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/dashboard)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, and React**
-
 - 🤝 I'm a proud member of the [100devs community](https://leonnoel.com/100devs/)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, and React**
