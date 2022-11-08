@@ -1,5 +1,5 @@
 
-<img src="https://imgur.com/9omgFi9.jpg" width="100%">
+<img src="https://imgur.com/9omgFi9.jpg" width="100%" height: "70%">
 
 <h1 align="center">Hi 👋, I'm Rishad!</h1>
 <h3 align="center">A passionate frontend developer from Canada!</h3>
