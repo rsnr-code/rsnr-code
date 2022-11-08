@@ -43,7 +43,6 @@ See [my website](#) for more information!
       </p>
         <p><strong>React, Bootstrap, Node.js, & Express.js</strong> - Going to a show? Not totally familiar with an artist’s catalog? Give The Set Listener a try. The Set Listener is a web app that will create a Spotify playlist of an artist’s most recent show.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center"><img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/logo.png" width="100%"></h3> 
         <br />
@@ -51,8 +50,7 @@ See [my website](#) for more information!
             <img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/screenshot.png" width="100%"  alt="Diagnose"/>
         </a>
         <br />
-        <p align="center">
-          
+        <p align="center">    
   <a href="https://github.com/rsnr-code/diagnose" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=blue&style=plastic&logo=github&logo-color=white"/>
   </a>
