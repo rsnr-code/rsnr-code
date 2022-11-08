@@ -1,8 +1,23 @@
 
 <img src="https://imgur.com/mFh6J3G.jpg" width="100%">
 
-<h1 align="center">Hi 👋, I'm Rishad!</h1>
-<h3 align="center">A passionate frontend developer from Canada!</h3>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/angellist" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsnr-code&label=Profile%20views&color=0e75b6&style=flat" alt="rsnr-code" /> </p>
 
