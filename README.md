@@ -48,7 +48,7 @@ See [my website](#) for more information!
       <h3 align="center"><img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/logo.png" width="100%"></h3> 
         <br />
       <a target="_blank" href="https://diagnoseapp.herokuapp.com/">
-            <img src="https://imgur.com/v4EbDON.jpg" width="100%"  alt="Diagnose"/>
+            <img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/screenshot.png" width="100%"  alt="Diagnose"/>
         </a>
         <br />
         <p align="center">
