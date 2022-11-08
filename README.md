@@ -44,7 +44,7 @@ See [my website](#) for more information!
         <p><strong>React, Bootstrap, Node.js, & Express.js</strong> - Going to a show? Not totally familiar with an artist’s catalog? Give The Set Listener a try. The Set Listener is a web app that will create a Spotify playlist of an artist’s most recent show.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/logo.png" width="40%"></h3> 
+      <h3 align="center"><img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/logo.png" width="50%"></h3> 
         <br />
       <a target="_blank" href="https://diagnoseapp.herokuapp.com/">
             <img src="https://imgur.com/Q9aG9pf.jpg" width="100%"  alt="Diagnose"/>
@@ -80,6 +80,7 @@ See [my website](#) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center"><img src="https://camo.githubusercontent.com/49914daf60fd94efee619af009e99dd4110cd53d148cf7315d831ab2784ad952/68747470733a2f2f696d6775722e636f6d2f30676a524678662e6a7067" width="100%"  alt="MyNotes"/></h3> 
         <br />
