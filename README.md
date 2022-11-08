@@ -80,24 +80,23 @@ See [my website](#) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center"><img src="https://camo.githubusercontent.com/49914daf60fd94efee619af009e99dd4110cd53d148cf7315d831ab2784ad952/68747470733a2f2f696d6775722e636f6d2f30676a524678662e6a7067" width="100%"  alt="MyNotes"/></h3> 
         <br />
         <a target="_blank" href="https://mynoteslive.herokuapp.com/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://camo.githubusercontent.com/1bbaae2ab055ca85703caf2cea644856d2c5dd709f7562f728ef16c62272da88/68747470733a2f2f696d6775722e636f6d2f685375513072632e706e67" width="100%" alt="MyNotes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/rsnr-code/MyNotes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=blue&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://mynoteslive.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>EJS, CSS, Javascript, Node.js, & Express.js</strong> - Create an account and be able to share personal notes you can either share publicly or keep private.</p>
     </td>
   </tr>
 </table>
