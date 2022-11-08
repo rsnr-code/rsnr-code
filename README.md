@@ -44,7 +44,7 @@ See [my website](#) for more information!
         <p><strong>React, Bootstrap, Node.js, & Express.js</strong> - Going to a show? Not totally familiar with an artist’s catalog? Give The Set Listener a try. The Set Listener is a web app that will create a Spotify playlist of an artist’s most recent show.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/logo.png" width="35%"></h3> 
+      <h3 align="center"><img src="https://github.com/rsnr-code/diagnose/blob/master/public/assets/img/logo.png" width="40%"></h3> 
         <br />
       <a target="_blank" href="https://diagnoseapp.herokuapp.com/">
             <img src="https://imgur.com/Q9aG9pf.jpg" width="100%"  alt="Diagnose"/>
@@ -64,7 +64,7 @@ See [my website](#) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
@@ -81,7 +81,7 @@ See [my website](#) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">MyNotes</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
@@ -101,10 +101,6 @@ See [my website](#) for more information!
   </tr>
 </table>
 
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rsnrcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rsnrcode" height="30" width="40" /></a>
@@ -114,6 +110,5 @@ See [my website](#) for more information!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsnr-code&label=Profile%20views&color=0e75b6&style=flat" alt="rsnr-code" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsnr-code&" alt="rsnr-code" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rsnr-code&label=Profile%20views&color=0e75b6&style=flat" alt="rsnr-code" /> </p>
