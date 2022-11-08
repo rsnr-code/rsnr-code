@@ -26,7 +26,7 @@ See [my website](#) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">The Set Listener</h3>
+      <h3 align="center"><img src="https://github.com/rsnr-code/set-listener/blob/main/client/public/logo.png" width="100%"></h3>
         <br />
         <a target="_blank" href="https://setlistener.herokuapp.com/">
             <img src="https://github.com/rsnr-code/set-listener/blob/main/client/public/screenshot.png" width="100%" alt="Set Listener"/>
