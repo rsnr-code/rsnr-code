@@ -64,9 +64,9 @@ See [my website](#) for more information!
   
   <tr>
     <td width="50%" valign="top">
-    <a target="_blank" href="https://rsnr-code.github.io/rsnrPortfolio/">
+    <h3 align="center">
             <img src="https://imgur.com/U8xmcKl.jpg" width="100%"  alt="Diagnose"/>
-        </a>
+      </h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="https://imgur.com/r9V1J3h.jpg" width="100%" alt="Portfolio"/>
