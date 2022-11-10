@@ -83,7 +83,7 @@ See [my website](#) for more information!
         <p><strong>React, Bootstrap, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><img src="https://camo.githubusercontent.com/49914daf60fd94efee619af009e99dd4110cd53d148cf7315d831ab2784ad952/68747470733a2f2f696d6775722e636f6d2f30676a524678662e6a7067" width="100%"  alt="MyNotes"/></h3> 
+      <h3 align="center"><img src="https://imgur.com/8EnyHtq.jpg" width="100%"  alt="MyNotes"/></h3> 
         <br />
         <a target="_blank" href="https://mynoteslive.herokuapp.com/">
           <img src="https://camo.githubusercontent.com/1bbaae2ab055ca85703caf2cea644856d2c5dd709f7562f728ef16c62272da88/68747470733a2f2f696d6775722e636f6d2f685375513072632e706e67" width="100%" alt="MyNotes"/>
