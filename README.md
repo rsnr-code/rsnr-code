@@ -69,7 +69,7 @@ See [my website](#) for more information!
         </a>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="https://imgur.com/U7DIjhY.jpg" width="100%" alt="Portfolio"/>
+          <img src="https://imgur.com/r9V1J3h.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
