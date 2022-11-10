@@ -68,7 +68,7 @@ See [my website](#) for more information!
             <img src="https://imgur.com/U8xmcKl.jpg" width="100%"  alt="Diagnose"/>
       </h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://rsnr-code.github.io/rsnrPortfolio/">
           <img src="https://imgur.com/r9V1J3h.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
