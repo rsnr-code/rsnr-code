@@ -37,7 +37,7 @@ See [my website](#) for more information!
   <a href="https://github.com/rsnr-code/set-listener" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=blue&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://setlistener.herokuapp.com/" target="_blank">
+  <a href="https://setlistener.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -54,7 +54,7 @@ See [my website](#) for more information!
   <a href="https://github.com/rsnr-code/diagnose" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=blue&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://diagnoseapp.herokuapp.com/" target="_blank">
+  <a href="https://diagnose.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
